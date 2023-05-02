@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Basic to Advance.iml" filepath="$PROJECT_DIR$/Java Basic to Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/doWhile/doWhile.iml" filepath="$PROJECT_DIR$/Loops/doWhile/doWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopswithArr/loopswithArr.iml" filepath="$PROJECT_DIR$/loopswithArr/loopswithArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/Loops/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>
