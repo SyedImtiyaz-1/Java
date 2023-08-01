@@ -1,0 +1,17 @@
+   public []plusone (int[] arr){
+        int n = arr.length; //taking length
+        for (int i = n - 1; i >= 0; i--) { // reversing the array
+            if (arr[i] != 9) {
+                arr[i]++; // +1 if the array is not == 9
+                break; // break to end the loop
+            } else {
+                arr[i] = 0; // else take 0th index which is probably '1' in many cases
+            }
+        }
+        if(arr[0] == 0){ // if 0th index is 0 ?
+            int newArr[] = new int[n+1];  //creating new array for  
+            newArr[0] = 1; //giving value 1 to the 0th index
+            return newArr;
+        }
+        return arr;
+    }
